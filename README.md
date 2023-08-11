@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+ <img height="300" src="https://github.com/diegorodriguezcaprani/diegorodriguezcaprani/blob/main/code.png"  />
+</p>
+
 ### Hi there, I'm Diego Rodriguez
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rodriguez-8087ab6b/)
